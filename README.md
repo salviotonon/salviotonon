@@ -19,7 +19,7 @@
 <p>If you would like to work with me or just want to say hi, feel free to contact me through my email or social media.</p>
 
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>  
+<a href="https://www.linkedin.com/in/salvio-tonon-279579251/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>  
 
 Thanks for visiting my portfolio!  
 
