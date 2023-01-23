@@ -19,7 +19,9 @@
 <p>If you would like to work with me or just want to say hi, feel free to contact me through my email or social media.</p>
 
 
-<a href="https://www.linkedin.com/in/salvio-tonon-279579251/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>  
+<a href="https://www.linkedin.com/in/salvio-tonon-279579251/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+<a href="https://discordapp.com/users/tonnnn#1685"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+
 
 Thanks for visiting my portfolio!  
 
