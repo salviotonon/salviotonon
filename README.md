@@ -1,6 +1,6 @@
 <h1>Hi, I'm Salvio Tonon, Front-End Developer 👨‍💻</h1>
 
-<img src="https://img.shields.io/github/followers/salviotonon.svg?style=social&amp;label=Follow" alt="GitHub followers">
+<a href="https://github.com/salviotonon?tab=followers"><img src="https://img.shields.io/github/followers/salviotonon.svg?style=social&label=Follow" alt="GitHub followers"></a>
 
 
 <h2>About Me</h2>
