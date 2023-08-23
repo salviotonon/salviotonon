@@ -4,8 +4,7 @@
 
 
 <h2>About Me</h2>
-<p>I am a front-end developer with experience in JavaScript, React, React Native, Node.js, styled-components, TailwindCSS,NextJS,Storybook,Jest. I started my journey as a developer in 2022 and since then I have been constantly improving myself and learning new technologies and trends in the market.</p>
-<h2>Technologies I work with</h2>
+<p>I am a front-end developer with expertise in JavaScript, React, React Native, Node.js, styled-components, TailwindCSS, NextJS, Storybook, and Jest. I am passionate about open-source projects and enthusiastic about SaaS solutions. My primary focus is on Next JS, and I also have a solid understanding of AI technologies. I am dedicated to continuous skill enhancement and staying updated with the latest advancements and trends in the industry.</h2>
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"></a>  
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> </a>  
