@@ -11,4 +11,4 @@ Engineer at [Epic](https://epic.new). I build the system that turns a product sp
 
 **Stack** — TypeScript · Next.js · React · Drizzle/libSQL · Workflow DevKit · AI SDK · Vitest · Playwright
 
-[epic.new](https://epic.new) · [LinkedIn](https://www.linkedin.com/in/salvio-tonon-279579251/)
+[epic.new](https://epic.new)
